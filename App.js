@@ -10,7 +10,7 @@ const App = () => {
       formatValue: (value) => `R$ ${value.toFixed(2)}`,
       segments: [
         {
-          total: 80,
+          total: 90,
           filled: 40,
         },
       ],
